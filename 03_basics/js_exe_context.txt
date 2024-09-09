@@ -1,0 +1,23 @@
+JavaScript Execution Context
+
+{}
+global EC - in browser it is window object
+
+function EC =
+
+Eval EC =property of global object
+
+{}- memory  creation phase
+execution phase
+
+
+program execution-
+-global execution ,this
+-memory phase,  val1=undefined
+-Executionphase , val1=10 ,for addnum function a new variable env +execution
+                 thread is created then above two steps will  execution ffrom memory phase
+                 -once work done it get deleted
+
+-return to global execution phase
+
+
